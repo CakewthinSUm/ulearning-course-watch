@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ulearning Course Watch"
+  short_description: "Automate signed-in ulearning video playback and quizzes"
+  default_prompt: "Use $ulearning-course-watch to continue my signed-in ulearning course at 2x, monitor it, and handle lesson quizzes."
+
+policy:
+  allow_implicit_invocation: true
